@@ -1,0 +1,11 @@
+/home/andy/source/rust/rust_course/async/use_join/target/rls/debug/deps/proc_macro2-b5defee98dd6ccf2.rmeta: /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/lib.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/parse.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/detection.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/fallback.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/andy/source/rust/rust_course/async/use_join/target/rls/debug/deps/libproc_macro2-b5defee98dd6ccf2.rlib: /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/lib.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/parse.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/detection.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/fallback.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/andy/source/rust/rust_course/async/use_join/target/rls/debug/deps/proc_macro2-b5defee98dd6ccf2.d: /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/lib.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/parse.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/detection.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/fallback.rs /home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/wrapper.rs
+
+/home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/lib.rs:
+/home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/parse.rs:
+/home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/detection.rs:
+/home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/fallback.rs:
+/home/andy/.cargo/registry/src/crates.rustcc.com-a21e0f92747beca3/proc-macro2-1.0.18/src/wrapper.rs:
