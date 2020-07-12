@@ -1,0 +1,11 @@
+fn foo() -> Result<T, Err> {
+	....
+}
+
+fn bar() -> Result<T, Err>{
+	let f = foo()?;
+	...
+	Ok(())
+}
+
+Result<T, E>

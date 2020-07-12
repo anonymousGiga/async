@@ -1,0 +1,26 @@
+use futures::{
+    stream::{Stream, StreamExt, FusedStream},
+    select,
+};
+
+async fn add_two_streams(
+    mut s1: impl Stream<Item = u8> + FusedStream + Unpin,
+    mut s2: impl Stream<Item = u8> + FusedStream + Unpin,
+) -> u8 {
+    let mut total = 0;
+
+    loop {
+        let item = select! {
+            x = s1.next() => x,
+            x = s2.next() => x,
+            complete => break,
+        };
+        if let Some(next_num) = item {
+            total += next_num;
+        }
+    }
+    total
+}
+
+Fuse::terminated()允许构建一个已经终止的空的Future；
+当需要同时运行同一Future的多个副本时，可以使用FuturesUnordered类型
